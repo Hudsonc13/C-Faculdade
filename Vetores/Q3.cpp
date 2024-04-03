@@ -24,9 +24,6 @@ void pares(int v[], int tam) {
 }
 
 
-
-
-
 int main() {
 
 	int v[10];
